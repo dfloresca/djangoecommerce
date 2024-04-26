@@ -1,1 +1,7 @@
 .virt
+media/
+db.sqlite3
+static/
+logs/
+*.log
+*.pyc
