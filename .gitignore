@@ -1,7 +1,12 @@
 .virt
 media/
 db.sqlite3
-static/
 logs/
 *.log
 *.pyc
+.DS_Store
+settings.cpython-311.pyc
+djangoecommerce/djangoecommerce/__pycache__/urls.cpython-311.pyc
+djangoecommerce/djangoecommerce/__pycache__/settings.cpython-311.pyc
+djangoecommerce/store/__pycache__/models.cpython-311.pyc
+djangoecommerce/store/__pycache__/admin.cpython-311.pyc
